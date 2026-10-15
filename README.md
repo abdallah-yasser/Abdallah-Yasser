@@ -3,7 +3,7 @@
 **Mechatronics Engineering student** at the University of Debrecen, Hungary 🇭🇺
 I build robots, design the hardware behind them, and model and control the systems that make them move.
 
-- 🤖 Interested in **robotics, motion planning, control systems and industrial automation**
+- 🤖 Interested in **robotics, motion planning, control systems, industrial automation and applied machine learning**
 - 🔧 Experienced across the full stack: **mechanical CAD → electronics/PCB → modeling & control → software**
 - 🏭 Hands-on with industrial tools: **TwinCAT/PLC, Siemens Plant Simulation, RoboDK**
 - 📫 Open to **internships and engineering roles**. Reach out via [LinkedIn](www.linkedin.com/in/
@@ -18,6 +18,8 @@ abdallah-yasser-633258317)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 **Robotics & Automation**
 ![RoboDK](https://img.shields.io/badge/RoboDK-E2231A?style=flat)
@@ -37,6 +39,7 @@ abdallah-yasser-633258317)
 
 | Project | Description | Tools |
 |---------|-------------|-------|
+| 🥔 [**Potato Disease Detector**](https://github.com/abdallah-yasser/potato-disease-detector) | Mobile app that detects potato tuber diseases from the camera with an on-device ResNet34 (TFLite) | PyTorch · Flutter |
 | 🗺️ [**Occupancy Grid Mapping**](https://github.com/abdallahnafady54321-bit/occupancy-grid-mapping) | Probabilistic 2D mapping from robot odometry + ultrasonic sensors using Bayesian log-odds and ray tracing | C++ |
 | 🧭 [**RRT Path Planning**](https://github.com/abdallahnafady54321-bit/rrt-path-planning) | Sampling-based motion planner with collision checking + industrial pick-and-place on a Doosan cobot | MATLAB · RoboDK |
 | 🦾 [**4-DOF Robotic Arm**](https://github.com/abdallahnafady54321-bit/4dof-robotic-arm-design) | Direct-drive manipulator design with FEA validation, full drawings and 3D models | Solid Edge · FEA |
