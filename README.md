@@ -49,6 +49,6 @@ abdallah-yasser-633258317)
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdallahnafady54321-bit&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahnafady54321-bit&layout=compact&hide_border=true" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdallah-yasser&show_icons=true&hide_border=true" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-yasser&layout=compact&hide_border=true" alt="Top languages">
 </p>
