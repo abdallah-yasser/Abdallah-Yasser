@@ -6,7 +6,8 @@ I build robots, design the hardware behind them, and model and control the syste
 - 🤖 Interested in **robotics, motion planning, control systems and industrial automation**
 - 🔧 Experienced across the full stack: **mechanical CAD → electronics/PCB → modeling & control → software**
 - 🏭 Hands-on with industrial tools: **TwinCAT/PLC, Siemens Plant Simulation, RoboDK**
-- 📫 Open to **internships and engineering roles**. Reach out via [LinkedIn](www.linkedin.com/in/abdallah-yasser-633258317)
+- 📫 Open to **internships and engineering roles**. Reach out via [LinkedIn](www.linkedin.com/in/
+abdallah-yasser-633258317)
 
 ---
 
